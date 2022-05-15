@@ -2,6 +2,9 @@ A summary of courses, projects, and semesters.
 
 <br>
 
+
+#### Courses / Projects
+
 | 📘 [3rd Semester]                 | 📙 [4th Semester]                      |
 | -------------------------------- | ------------------------------------- |
 | 📘 [Mathematics 3]                | 📙 [Mathematics 4]                     |
@@ -79,3 +82,21 @@ A summary of courses, projects, and semesters.
 [Digital Image Processing]: https://github.com/nitrece/digital-image-processing
 [Digital Image Processing Laboratory]: https://github.com/nitrece/digital-image-processing-laboratory
 [Thesis: Flood Monitoring]: https://github.com/nitrece/flood-monitoring
+
+
+<br>
+
+
+#### Reports (Projects)
+
+- [Design of a Heterogeneous Sensor-based Embedded System for Flood Management](https://gist.github.com/wolfram77/4c7c68174a5a48ce7f9352a705ed0915)
+- [Smart Grid Monitoring](https://gist.github.com/wolfram77/04f46fdd9b781ad885b6b3ceb4ccbac8)
+- [Monitoring Voltage and Current at various nodes in a Smart Grid](https://gist.github.com/wolfram77/292be6f04bfa02f287edecaf207b8a57)
+- [Understand Problems](https://gist.github.com/wolfram77/be1b0cec6825515057058fe1dde843c9)
+
+<br>
+<br>
+
+
+[![](https://img.youtube.com/vi/Owkex5WXTPA/maxresdefault.jpg)](https://www.youtube.com/watch?v=Owkex5WXTPA)
+[![ORG](https://img.shields.io/badge/org-wolfram77-green?logo=Org)](https://wolfram77.github.io)
