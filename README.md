@@ -120,3 +120,4 @@ I design a Wireless Sensor Node for [Flood monitoring](https://github.com/nitrec
 
 [![](https://img.youtube.com/vi/Owkex5WXTPA/maxresdefault.jpg)](https://www.youtube.com/watch?v=Owkex5WXTPA)
 [![ORG](https://img.shields.io/badge/org-wolfram77-green?logo=Org)](https://wolfram77.github.io)
+![](https://ga-beacon.deno.dev/G-ERJXRWVLBT:BGFjXiiDQ5-gqJoAeoZGqg/nitrece.github.io)
